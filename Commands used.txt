@@ -1,0 +1,15 @@
+dotnet new -h 			provides contextual help
+dotnet new sln			creates a new sln file
+dotnet new webapi -o API	create a new API folder
+dotnet run			run application
+dotnet watch run		run application while checking changes
+dotnet dev-certs https --trust	establish trust on https
+
+dotnet ef migrations add [migrationname] -o [directory/directory]
+dotnet ef migrations add InitialCreate -o Data/Migrations
+
+dotnet ef database update	update database according to latest migration made	
+
+git status			checks if any git repository is associated with current project
+git init			initializes git
+dotnet new gitignore		creates a gitignore file		
