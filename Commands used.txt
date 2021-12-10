@@ -13,3 +13,11 @@ dotnet ef database update	update database according to latest migration made
 git status			checks if any git repository is associated with current project
 git init			initializes git
 dotnet new gitignore		creates a gitignore file		
+
+npm install -g @angular/cli@12  install angular
+ng --version			check angular version
+
+ng new client --strict false	create angular application, set strict mode to off
+ng serve			run angular application
+ng add ngx-bootstrap		install ngx-bootstrap
+npm install font-awesome
