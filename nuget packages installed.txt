@@ -1,2 +1,4 @@
 Microsoft EntityFrameworkcore Sqlite
 Microsoft EntityFrameworkcore Design
+system.identitymodel.tokens.jwt
+Microsoft.AspNetcore.Authentication
