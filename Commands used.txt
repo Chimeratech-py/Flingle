@@ -28,3 +28,5 @@ ng g c nav --skip-tests		create component nav bar
 ng g s account --skip-tests
 
 npm install ngx-toastr
+npm install bootswatch
+ng g interceptor --skip-tests
