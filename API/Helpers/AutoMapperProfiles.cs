@@ -21,6 +21,7 @@ namespace API.Helpers
             CreateMap<Photo, PhotoDto>();
             //dto to entity because changes made will be to entity itself
             CreateMap<MemberUpdateDto,AppUser>();
+            CreateMap<RegisterDto, AppUser>();
         }
     }
 }
