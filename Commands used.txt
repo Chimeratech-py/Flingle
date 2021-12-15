@@ -36,3 +36,4 @@ dotnet ef migrations remove	remove latest migration added
 npm install @kolkov/ngx-gallery
 ng add ngx-spinner
 npm install @angular/cdk
+npm install ng2-file-upload
