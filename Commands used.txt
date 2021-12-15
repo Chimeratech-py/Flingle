@@ -32,3 +32,7 @@ npm install bootswatch
 ng g interceptor --skip-tests
 
 dotnet ef migrations remove	remove latest migration added
+
+npm install @kolkov/ngx-gallery
+ng add ngx-spinner
+npm install @angular/cdk

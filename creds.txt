@@ -1,6 +1,2 @@
-username: ken
-password: Pa$$w0rd
-username: bob
-password: Pa$$w0rd
-username: jane
+username: dona
 password: Pa$$w0rd
