@@ -37,3 +37,4 @@ npm install @kolkov/ngx-gallery
 ng add ngx-spinner
 npm install @angular/cdk
 npm install ng2-file-upload
+npm install ngx-timeago
