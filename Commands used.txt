@@ -1,6 +1,7 @@
 dotnet new -h 			provides contextual help
 dotnet new sln			creates a new sln file
 dotnet new webapi -o API	create a new API folder
+dotnet sln add API		add API to solution file
 dotnet run			run application
 dotnet watch run		run application while checking changes
 dotnet dev-certs https --trust	establish trust on https
