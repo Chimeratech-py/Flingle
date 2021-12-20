@@ -4,3 +4,4 @@ system.identitymodel.tokens.jwt
 Microsoft.AspNetcore.Authentication
 Automapper.Extensions.Microsoft.DependencyInjection
 cloudinarydotnet
+Microsoft.AspNetCore.Identity.EntityFrameworkCore
