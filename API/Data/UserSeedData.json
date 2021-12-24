@@ -13,8 +13,8 @@
         "Country": "Niue",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/women/85.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/women/85.jpg",
+                "IsMain": true
             }
         ]
     },

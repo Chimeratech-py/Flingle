@@ -19,7 +19,8 @@ export class MemberMessagesComponent implements OnInit {
   ngOnInit(): void {
 
   }
-
+  //changes here
+  
   sendMessage() {
     this.messageService.sendMessage(this.username, this.messageContent).then(() => {
       this.messageForm.reset();

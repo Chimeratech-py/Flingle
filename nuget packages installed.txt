@@ -1,7 +1,7 @@
 Microsoft EntityFrameworkcore Sqlite
 Microsoft EntityFrameworkcore Design
 system.identitymodel.tokens.jwt
-Microsoft.AspNetcore.Authentication
+Microsoft.AspNetcore.Authentication.JwtBearer
 Automapper.Extensions.Microsoft.DependencyInjection
 cloudinarydotnet
 Microsoft.AspNetCore.Identity.EntityFrameworkCore
