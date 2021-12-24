@@ -40,3 +40,5 @@ npm install @angular/cdk
 npm install ng2-file-upload
 npm install ngx-timeago
 npm install @microsoft/signalr
+
+ng build			
